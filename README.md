@@ -1,5 +1,6 @@
 # MouseJump
-Move Jump is a simple Automator Programm that simulates user activity.
+
+MoveJump is a simple Automator Programm that simulates user activity.
 
 Keep sessions alive, Teams active and Interrupt screensavers/sleep mode - ideal for people who work from home.
 
